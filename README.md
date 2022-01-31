@@ -9,3 +9,4 @@ essa linha eu add **diretamente** no site
 Coisas | preços | custo
 ---|---|---
 Bdjdh|kkcj|kffjjd
+()
