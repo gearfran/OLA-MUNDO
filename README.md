@@ -1,5 +1,11 @@
 # OLA MUNDO
- primeiro repositorio do curso de git e git hub
+ primeiro **repositorio** do --cursode git e git hub
 
 
-essa linha eu add diretamente no site 
+essa linha eu add **diretamente** no site 
+ # *titulo*
+
+  ## nova história 
+Coisas | preços | custo
+---|---|---
+Bdjdh|kkcj|kffjjd
